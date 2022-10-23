@@ -1,0 +1,3 @@
+# Banking-Management
+Banking Management is the management system which lets the users do all the bank related task in online mode.  This project is made keeping in mind that the people in old days used to wait in long queues wasting their much of the time. So this application helps people do all their tasks very easily and smoothly, which saves lots of their time.
+This project has extensive use of (JAVA, JAVAFX, MYSQL). This is presently a small scale project but it has very wide scope if given a ample amout of time. This project if combined with maching learning and face recognition, can become first face recognition banking system.
